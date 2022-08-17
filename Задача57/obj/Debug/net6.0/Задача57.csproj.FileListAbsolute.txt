@@ -1,0 +1,15 @@
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\bin\Debug\net6.0\Задача57.exe
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\bin\Debug\net6.0\Задача57.deps.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\bin\Debug\net6.0\Задача57.runtimeconfig.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\bin\Debug\net6.0\Задача57.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\bin\Debug\net6.0\Задача57.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\obj\Debug\net6.0\Задача57.csproj.AssemblyReference.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\obj\Debug\net6.0\Задача57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\obj\Debug\net6.0\Задача57.AssemblyInfoInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\obj\Debug\net6.0\Задача57.AssemblyInfo.cs
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\obj\Debug\net6.0\Задача57.csproj.CoreCompileInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\obj\Debug\net6.0\Задача57.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\obj\Debug\net6.0\refint\Задача57.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\obj\Debug\net6.0\Задача57.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\obj\Debug\net6.0\Задача57.genruntimeconfig.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 8 (примеры и дз)\Seminar\Задача57\obj\Debug\net6.0\ref\Задача57.dll
